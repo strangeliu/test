@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://hongte.info/htjf.ipa</string>
+					<string>http://192.168.14.223:8081/htjf.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://hongte.info/htjf.png</string>
+					<string>http://192.168.14.223:8081/img/57X57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://hongte.info/htjf_big.png</string>
+					<string>http://192.168.14.223:8081/img/512X512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
